@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactLoader</string>
+    <string name="done">Done</string>
+    <string name="unknow">Unknown</string>
+    <string name="search">Search</string>
+    <string name="select_contact">Contacts</string>
+</resources>
